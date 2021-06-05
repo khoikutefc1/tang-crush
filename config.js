@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'THÙY LINH YÊU NHẬT ANH <33333333',
     mess: 'Em biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hẹn gặp chị ngày gần nhất.',
-    btnAccept: 'yêu em <3',
+    btnAccept: 'yêu em  <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
